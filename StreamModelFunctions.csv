@@ -1,8 +1,8 @@
-Functional Category,Functional Variable,Functional Statement,Phsyical,Chemical,Biological
+Functional Category,Functional Variable,Functional Statement,Physical,Chemical,Biological
 Hydrology,Catchment hydrology,Alters water quantity and quality via land uses.,D,i,i
 Hydrology,Surface water storage,"Attenuates upstream flows via natural and artificial features (e.g., wetlands).",D,i,
 Hydrology,Reach inflow,"Addresses localized inputs from tributaries, ditches, and pipes.",D,i,
-Hydrology,Flow duration,Integrates the range of ìtypicalî flows experienced by other processes.,D,,i
+Hydrology,Flow duration,Integrates the range of ‚Äútypical‚Äù flows experienced by other processes.,D,,i
 Hydrology,Flow alteration,"Examines the degree to which upstream infrastructure or land uses have fundamentally altered flow regimes (e.g., hydropeaking, dams, withdrawals).",D,i,i
 Hydraulics,Low flow dynamics,Ensures habitat availability and water quality during low water levels.,D,i,i
 Hydraulics,Baseflow dynamics,Indicates non-storm conditions experienced the majority of the time.,D,i,i
